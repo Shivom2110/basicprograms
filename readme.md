@@ -64,7 +64,7 @@
 # How to contribute  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </a>
 
-- Fork this [repo](https://github.com/swaaz/basicprograms)
+- Fork this [repo]((https://github.com/Shivom2110/basicprograms))
 
 - Clone it using command :
 <pre> $ git clone paste_the_copied_url.</pre>
@@ -94,7 +94,6 @@
  - Create a file *program.c*
 
  - Write the code inside program.c file
- ### NOTE: Before writng code refer [*sample*](https://github.com/swaaz/basicprograms/blob/swaaz/C/sample.c) file and write the code in the same format as given
 
  - Add file :
 <pre>$ git add -A</pre>
@@ -114,6 +113,4 @@
 - tag @NeonBunny under review section<br/><br/>
 
 ### Tada you just made a contribution ✨. Pat your back 👏 <br/><br/>
-
-### If you have never made a PR before 😕, no worries, follow these steps to get going [👉click me](https://gitme.js.org/)
 
