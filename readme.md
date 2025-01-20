@@ -111,7 +111,7 @@
 
 - Create a pull request
 
-- tag @swaaz under review section<br/><br/>
+- tag @NeonBunny under review section<br/><br/>
 
 ### Tada you just made a contribution ✨. Pat your back 👏 <br/><br/>
 
